@@ -8,7 +8,7 @@
 
   <applets>
 
-	<applet name="FontReplacer" version="1.4" minTarget="7.3" maxTarget="8.*">
+	<applet name="FontReplacer" version="1.4" minTarget="7.3" maxTarget="20.*">
 	  <title lang="EN">Font Replacer</title>
 	  <desc  lang="EN">Replaces the default FreeSans Font with a merged FreeSans + DroidSansFallback font to provide a fuller character set, including Chinese/Japanese/Korean characters</desc>
 	  <url>http://downloads.nixda.ch/FontReplacer-1.4a.zip</url>
